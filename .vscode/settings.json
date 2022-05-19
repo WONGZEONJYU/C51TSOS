@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "task.h": "c",
+        "main.h": "c",
+        "cpu.h": "c",
+        "stc15.h": "c",
+        "STC15.H": "cpp",
+        "intrins.h": "c",
+        "INTRINS.H": "cpp"
+    }
+}
